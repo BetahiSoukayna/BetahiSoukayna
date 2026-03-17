@@ -10,7 +10,7 @@
 
 ## 📍 About Me
 
-I'm a final-year **AI Engineering student** at ENIAD Berkane (Morocco) with expertise in:
+I'm a 4th-year **AI Engineering student** at ENIAD Berkane (Morocco) with expertise in:
 - 🤖 **Machine Learning & AI** — Agent orchestration, LLM integration, anomaly detection
 - 💻 **Full-Stack Development** — React, Flutter, FastAPI, Node.js
 - 📊 **Data Science** — Python, pandas, scikit-learn, TensorFlow
@@ -59,24 +59,6 @@ Passionate about building **intelligent solutions** that solve real-world proble
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BetahiSoukayna&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400">
-    </td>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=BetahiSoukayna&theme=dark&hide_border=false" alt="Streak Stats" width="400">
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetahiSoukayna&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="500">
-</div>
-
 ---
 
 ## 🌱 Currently Learning
@@ -108,8 +90,6 @@ Passionate about building **intelligent solutions** that solve real-world proble
   
   ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=BetahiSoukayna&icon=0&color=0)
   
 </div>
 
